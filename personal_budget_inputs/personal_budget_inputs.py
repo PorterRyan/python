@@ -14,7 +14,7 @@ while input_cat != 'stop' or 'STOP':
         break
     input_month = float(input("Enter a monthly amount: "))
     yearly = input_month * 12
-    output = output + '\n' + "{0:<12} ${1:<10.2f} ${2:<10.2f}".format(input_cat, input_month, yearly)
+    output = output + '\n' + f"{input_cat:<12} ${input_month:<10.2f} ${yearly:<10.2f}"
     print()
 
 print()
