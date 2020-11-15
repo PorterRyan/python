@@ -12,3 +12,6 @@ This is an adaptation of the previous assignment, but with user-defined categori
 
 ### [Area Calculator](area_calculator/area_calculator.py)
 A program that calculates the area of a circle, triangle, or rectangle.
+
+### [Grade Calculator](grade_calculator/gradeLoops.py)
+The assignment was to write a program that calculates grades, with the requirement that loops be integrated. I was a bit ahead of this one, considering that I've been implementing loops all along in this class.
